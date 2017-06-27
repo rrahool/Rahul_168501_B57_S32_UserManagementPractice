@@ -1,0 +1,11 @@
+{
+  "autoload":{
+    "psr-4":{
+      "App\\":"src\\SEID168501\\"
+    }
+  },
+
+  "require":{
+      "phpmailer/phpmailer":"v5.2.23"
+  }
+}
